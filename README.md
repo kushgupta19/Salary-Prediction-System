@@ -12,11 +12,12 @@ I used HTML,CSS,Flask web framework in built in Python to put in on web and host
 
 ##### Home page
 
+![image](https://user-images.githubusercontent.com/59951582/137630631-164a6b1d-cd6f-4d32-ad9f-db2c6cc4ca64.png)
+
+
+##### Result page
 ![image](https://user-images.githubusercontent.com/59951582/137630663-ce305f38-e963-4f58-9231-505c313c41ca.png)
 
-
-##### Recommendation page
-![image](https://user-images.githubusercontent.com/59951582/137630631-164a6b1d-cd6f-4d32-ad9f-db2c6cc4ca64.png)
 
 ***
 ### Web Technologies
