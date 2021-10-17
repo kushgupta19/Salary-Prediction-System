@@ -40,15 +40,11 @@ pandas>=0.19
 
 ### Machine Learning Library In Python3
 
-Numpy , Pandas , Scipy, Sklearn
+Numpy , Pandas , Scipy, Matpolib
 
 ### Files Brief
 
-*In the preprocessing.ipynb file the Data Preprocessing part has been done.* 
-
-*In the create.py file I created two files for future uses one data.csv and other a numpy matrix.*
-
-*The application is running from the main.py file.*
+*The application is running from the model.py file.*
 
 ### Creating Local Server
 
