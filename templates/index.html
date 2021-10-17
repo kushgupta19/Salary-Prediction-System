@@ -13,6 +13,11 @@
 
 <body>
  <div class="login">
+	 
+      <div class="jumbotron">
+        {% block content %}
+        {% endblock %}
+      </div>
 	<h1>Predict Salary Analysis</h1>
 
      <!-- Main Input For Receiving Query to our ML -->
@@ -36,6 +41,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+	  
     <meta charset="utf-8">
     <title>Recommendor System</title>
     <link rel="shortcut icon" href="/static/profile.jpeg">
@@ -48,10 +54,6 @@
     <div class="container">
  
 
-      <div class="jumbotron">
-        {% block content %}
-        {% endblock %}
-      </div>
 
     <div class="card mb-3" style="max-width: 650px;">
       <div class="row no-gutters">
