@@ -51,7 +51,7 @@ Numpy , Pandas , Scipy, Sklearn
 Goto src directory, example
 
 ```
-cd ../Movie-Recommendation-System/src
+cd ../Salary-Prediction-System/src
 ```
 To run
 ```
